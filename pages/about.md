@@ -18,6 +18,9 @@ This collection features drawings, paintings, woodcuts, engravings and lithograp
 
 This collection will speak to someone who wants to connect with the fear and uncertainty European citizens lived with during the era of witch hunts and trials, ones who are hoping to understand the culture that went hand-in-hand with religious and political persecution to result in a deadly and prejudiced belief system.
 
+### Featured Image
+The featured image displays the first known artistic depiction of a witch, found in the 1451 manuscript Le Champion des Dames (The Defender of Ladies)
+
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
         <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
