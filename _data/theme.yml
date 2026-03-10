@@ -89,7 +89,6 @@ navbar-color: navbar-light
 navbar-background: bg-light
 <nav class="navbar navbar-light" style="background-color: #e1ab49;">
   <!-- Navbar content -->
-</nav>
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
