@@ -3,8 +3,8 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-medium,Medium,
-subbject,Subject
+medium,Medium,true
+subbject,Subject,true
 location,Location,,
 source,Source,,true
 identifier,Source Identifier,,
