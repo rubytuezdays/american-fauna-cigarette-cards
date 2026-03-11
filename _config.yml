@@ -25,7 +25,7 @@ title: Art of the Witch Trials
 tagline: from 14th - 18th century Europe
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of paintings, prints, lithographs, and engravings depicting witches, bewitchment, and punishments from the era of European witch trials."
+description: "A collection of drawings, paintings, prints, ink manuscripts, woodcuts, and engravings depicting witches, bewitchment, and punishments from the era of European witch trials."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: rubytuezdays
 
@@ -62,7 +62,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQKYHpFEjCjoddd4zX
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
